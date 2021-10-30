@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Shreejan-35?style=plastic)
 ![PyPI - Downloads](https://img.shields.io/pypi/dd/pyttsx3?style=plastic)
-!()[https://img.shields.io/badge/JACKPOT-1.0-blue]
+![](https://img.shields.io/badge/JACKPOT-1.0-blue)
 
 Playing memory game is fun and the more harder it is the more challenging it is. Playing thi sgame make us stress free and also happy. So, I have decided to make a memory Game which people can play while doing work. To pass your time and to be little happy, play this wonderful memory game - **JACKPOT** while doing your work and sitting in front of your computer.
 
