@@ -33,23 +33,23 @@ You can also see the source code in the main.py file. I have explained which thi
 ## Getting Started
 
 **Minimum Requirements**
-    - Python 3
-    - Editor.(Recommended:- Pycharm, VS Code)
+- Python 3
+- Editor.(Recommended:- Pycharm, VS Code)
 
 **Libraries Needed**
-    - pyttsx3 (Needed to install)
-    - Al the libraries are installed
+- pyttsx3 (Needed to install)
+- Al the libraries are installed
 
 **Process**
-    - import the libraries
-    - fetch the word list of 10000 words from this link "https://www.mit.edu/~ecprice/wordlist.10000" using urllib
-    - make the function which will give voice outputs and read the lines which will be given
-    - make a function which will take the command from the microphone as an audio
-    - make three levels and for each generate random numbers of some limit and append the words which are there at the indexes of the random numbers of the word list taken from the url in the new list.
-    - use the function which will speak and with it speak the new list
-    - reverse the new list
-    - take the users voice and compare it with the reversed list.
-    **Done**
+- import the libraries
+- fetch the word list of 10000 words from this link "https://www.mit.edu/~ecprice/wordlist.10000" using urllib
+- make the function which will give voice outputs and read the lines which will be given
+- make a function which will take the command from the microphone as an audio
+- make three levels and for each generate random numbers of some limit and append the words which are there at the indexes of the random numbers of the word list taken from the url in the new list.
+- use the function which will speak and with it speak the new list
+- reverse the new list
+- take the users voice and compare it with the reversed list.
+**Done**
 
 ## License
 MIT
