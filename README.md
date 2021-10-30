@@ -1,5 +1,7 @@
 # **JACKPOT**
 
+![](https://github.com/Shreejan-35/JACKPOT/blob/master/images/jackpot_img.jpg)
+
 ![GitHub followers](https://img.shields.io/github/followers/Shreejan-35?style=plastic)
 ![PyPI - Downloads](https://img.shields.io/pypi/dd/pyttsx3?style=plastic)
 
