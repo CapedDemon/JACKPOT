@@ -51,6 +51,14 @@ You can also see the source code in the main.py file. I have explained which thi
 - take the users voice and compare it with the reversed list.
 **Done**
 
+## Installation
+
+If you don't want to write the code then, clone the repo:-
+```
+git clone https://github.com/Shreejan-35/JACKPOT.git
+```
+But install the libraries then run the main.py.
+
 ## License
 MIT
 
